@@ -105,6 +105,18 @@ const CONFIG = {
 			icon: 'radio',
 			link: 'https://www.npr.org/',
 		},
+		{
+			id: '10',
+			name: 'Apple Music',
+			icon: 'headphones',
+			link: 'https://music.apple.com/',
+		},
+		{
+			id: '11',
+			name: 'YouTube',
+			icon: 'youtube',
+			link: 'https://www.youtube.com/',
+		},
 	],
 
 	secondButtonsContainer: [
@@ -167,14 +179,6 @@ const CONFIG = {
 				{
 					name: 'Disney Plus',
 					link: 'https://www.disneyplus.com/home',
-				},
-				{
-					name: 'YouTube',
-					link: 'https://www.youtube.com/',
-				},
-				{
-					name: 'Apple Music',
-					link: 'https://music.apple.com/',
 				},
 				{
 					name: 'Hulu',
