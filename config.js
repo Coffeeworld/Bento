@@ -26,7 +26,7 @@ const CONFIG = {
 	bentoLayout: 'bento', // 'bento', 'lists', 'buttons'
 
 	// Weather
-	weatherKey: 'ed1427829e21f402fa8661dd58c792cd', // Write here your API Key
+	weatherKey: '9d3218868eb6f3eae18ee62b3a55afdb', // Write here your API Key
 	weatherIcons: 'Nord', // 'Onedark', 'Nord', 'Dark', 'White'
 	weatherUnit: 'f', // 'F', 'C'
 	language: 'en', // More languages in https://openweathermap.org/current#multi
@@ -53,39 +53,57 @@ const CONFIG = {
 	firstButtonsContainer: [
 		{
 			id: '1',
-			name: 'Github',
-			icon: 'github',
-			link: 'https://github.com/',
+			name: 'Notion',
+			icon: 'bookmark',
+			link: 'https://notion.so/',
 		},
 		{
 			id: '2',
 			name: 'Mail',
 			icon: 'mail',
-			link: 'https://mail.protonmail.com/',
+			link: 'https://gmail.com/',
 		},
 		{
 			id: '3',
-			name: 'Todoist',
-			icon: 'trello',
-			link: 'https://todoist.com',
-		},
-		{
-			id: '4',
-			name: 'Calendar',
-			icon: 'calendar',
-			link: 'https://calendar.google.com/calendar/r',
-		},
-		{
-			id: '5',
 			name: 'Reddit',
 			icon: 'glasses',
 			link: 'https://reddit.com',
 		},
 		{
+			id: '4',
+			name: 'Twitch',
+			icon: 'twitch',
+			link: 'https://twitch.com',
+		},
+		{
+			id: '5',
+			name: 'Ally',
+			icon: 'piggy-bank',
+			link: 'https://ally.com',
+		},
+		{
 			id: '6',
-			name: 'Odysee',
-			icon: 'youtube',
-			link: 'https://odysee.com/',
+			name: 'Godot',
+			icon: 'code',
+			link: 'https://docs.godotengine.org/en/stable/',
+		},
+		{
+			id: '7',
+			name: 'Proton',
+			icon: 'mail',
+			link: 'https://mail.proton.me/',
+		},
+		{
+			id: '8',
+			name: 'Fidelity',
+			icon: 'landmark',
+			link: 'https://www.fidelity.com/',
+		},
+		{
+			id: '9',
+			name: 'NPR',
+			icon: 'radio',
+			link: 'https://www.npr.org/',
 		},
 	],
 
@@ -135,24 +153,36 @@ const CONFIG = {
 	// First Links Container
 	firstlistsContainer: [
 		{
-			icon: 'music',
+			icon: 'play',
 			id: '1',
 			links: [
 				{
-					name: 'Inspirational',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'HBOMax',
+					link: 'https://www.hbomax.com/',
 				},
 				{
-					name: 'Classic',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Netflix',
+					link: 'https://www.netflix.com/browse',
 				},
 				{
-					name: 'Oldies',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Disney Plus',
+					link: 'https://www.disneyplus.com/home',
 				},
 				{
-					name: 'Rock',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'YouTube',
+					link: 'https://www.youtube.com/',
+				},
+				{
+					name: 'Apple Music',
+					link: 'https://music.apple.com/',
+				},
+				{
+					name: 'Hulu',
+					link: 'https://www.hulu.com/hub/home',
+				},
+				{
+					name: 'Prime Video',
+					link: 'https://www.amazon.com/hp/video/offers/intercept/ref=atv_hm_hom_redirect?_encoding=UTF8&dvah=intercept&node=2676882011',
 				},
 			],
 		},
@@ -161,20 +191,24 @@ const CONFIG = {
 			id: '2',
 			links: [
 				{
-					name: 'Linkedin',
-					link: 'https://www.linkedin.com',
+					name: 'Novel Factory',
+					link: 'https://nf3.novel-factory.com/',
 				},
 				{
-					name: 'Dribbble',
-					link: 'https://www.dribbble.com',
+					name: 'Wavemaker',
+					link: 'https://wavemaker.cards/',
 				},
 				{
-					name: 'Trello',
-					link: 'https://www.trello.com',
+					name: 'Keybr',
+					link: 'https://www.keybr.com/',
 				},
 				{
-					name: 'Slack',
-					link: 'https://www.slack.com',
+					name: 'Monkeytype',
+					link: 'https://monkeytype.com/',
+				},
+				{
+					name: 'TypeRacer',
+					link: 'https://play.typeracer.com/',
 				},
 			],
 		},
