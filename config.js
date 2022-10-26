@@ -117,6 +117,12 @@ const CONFIG = {
 			icon: 'youtube',
 			link: 'https://www.youtube.com/',
 		},
+		{
+			id: '12',
+			name: 'Github',
+			icon: 'github',
+			link: 'https://www.github.com/',
+		},
 	],
 
 	secondButtonsContainer: [
