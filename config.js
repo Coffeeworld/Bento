@@ -85,7 +85,7 @@ const CONFIG = {
 			id: '6',
 			name: 'Godot',
 			icon: 'code',
-			link: 'https://docs.godotengine.org/en/stable/',
+			link: 'https://docs.godotengine.org/en/latest/',
 		},
 		{
 			id: '7',
