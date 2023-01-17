@@ -201,8 +201,8 @@ const CONFIG = {
 			id: '2',
 			links: [
 				{
-					name: 'Novel Factory',
-					link: 'https://nf3.novel-factory.com/',
+					name: 'POE Trade',
+					link: 'https://www.pathofexile.com/trade/',
 				},
 				{
 					name: 'Wavemaker',
