@@ -89,9 +89,9 @@ const CONFIG = {
 		},
 		{
 			id: '7',
-			name: 'Proton',
-			icon: 'mail',
-			link: 'https://mail.proton.me/',
+			name: 'Codecks',
+			icon: 'card',
+			link: 'https://coffeehouse-studios.codecks.io',
 		},
 		{
 			id: '8',
