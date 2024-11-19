@@ -90,7 +90,7 @@ const CONFIG = {
 		{
 			id: '7',
 			name: 'Codecks',
-			icon: 'card',
+			icon: 'wallet-cards',
 			link: 'https://coffeehouse-studios.codecks.io',
 		},
 		{
